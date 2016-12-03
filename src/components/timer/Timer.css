@@ -1,0 +1,10 @@
+.Timer-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.Timer-value {
+  font-size: 30rem;
+}

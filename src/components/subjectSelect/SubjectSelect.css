@@ -1,0 +1,19 @@
+.SubjectSelect {
+  background-color: inherit;
+  border: 1px solid #666;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 4% 4% 0 4%;
+  text-align: center;
+  width: 40%;
+}
+
+.SubjectSelect-logo {
+  font-size: 18rem;
+}
+
+.SubjectSelect-header {
+  color: #000;
+  font-size: 2rem;
+  padding: 18px 0 0 0;
+}
